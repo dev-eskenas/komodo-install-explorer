@@ -22,11 +22,11 @@ Clone this repository in your home directory and navigate into it
 
 ```bash
 cd ~
-git clone https://github.com/gcharang/komodo-install-explorer
+git clone https://github.com/dev-eskenas/komodo-install-explorer
 cd komodo-install-explorer
 ```
 
-Run the script: https://github.com/gcharang/komodo-install-explorer/blob/master/setup-explorer-directory.sh
+Run the script: https://github.com/dev-eskenas/komodo-install-explorer/blob/master/setup-explorer-directory.sh
 This script installs dependencies and prepares the directory for installing the explorer
 
 ```bash
@@ -35,7 +35,7 @@ This script installs dependencies and prepares the directory for installing the 
 
 It should create a subdirectory named `node_modules`
 
-Now run the script: https://github.com/gcharang/komodo-install-explorer/blob/master/install-assetchain-explorer.sh with the Smart Chain's name as the argument
+Now run the script: https://github.com/dev-eskenas/komodo-install-explorer/blob/master/install-assetchain-explorer.sh with the Smart Chain's name as the argument
 
 ```bash
 ./install-assetchain-explorer.sh SMARTCHAINNAME
